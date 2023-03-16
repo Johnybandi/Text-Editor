@@ -1,0 +1,22 @@
+div,
+iframe {
+  width: 65% !important;
+  margin: auto;
+  display: block;
+  border: 1px solid #170707;
+}
+iframe {
+  height: 600px !important;
+}
+div {
+  border: none;
+  margin-bottom: 10px;
+}
+button,
+input,
+select {
+  margin: 5px;
+}
+body{
+    background-color: rgb(53, 192, 247);
+}
